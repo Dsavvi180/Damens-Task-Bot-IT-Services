@@ -1,0 +1,16 @@
+{
+  "name": "Task-Bot",
+  "version": "1.0.0",
+  "description": "Webscraping project using puppeteer for workflow automation",
+  "main": "TaskBot.js",
+  "repository": "/Users/damensavvasavvi/Desktop/Task-Bot",
+  "author": "Damen Savvi",
+  "license": "MIT",
+  
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
+
