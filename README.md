@@ -5,7 +5,7 @@ UniDesk is a helpline software application that is commonly used throughout UK u
 Any issues, queries or service requests related to any University department is logged through a call on this system. Hundreds of thousands of calls get processed in this way, and assigned
 to the relevant uni team to solve. Each call/ticket has many attributes. One being the Object ID - the service the call is related to. Other attributes include a brief description, category, sub category and many more.
 
-### Webscraping this application is highly tricky due to its complexity, and several layers of iframe embeddings. Simple, traditional webscraping navigation cannot be used. Executing code on the client side is required with nifty techniques to get pass the difficulties presented with this application.
+### Webscraping this application is highly tricky due to its complexity, and several layers of iframe embeddings. Simple, traditional webscraping navigation cannot be used. Executing code on the client side is required with nifty techniques to get passed the difficulties presented with this application.
 
 # How this automation script works:
 Javascript & Python:
