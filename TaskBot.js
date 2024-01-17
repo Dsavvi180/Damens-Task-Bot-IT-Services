@@ -241,7 +241,7 @@ puppeteer
         fs.writeFileSync("text.json", JSON.stringify(call_text));
         // use the below code to automatically trigger the python3 script
         execSync(
-          "python3 /Users/damensavvasavvi/Desktop/Task-Bot/textParser.ipynb"
+          "python3 /Users/damensavvasavvi/Desktop/Task-Bot/textParser.py"
         );
       });
     const finalObjectID = fs.readFileSync("ObjectIDFinal.txt", "utf-8");
