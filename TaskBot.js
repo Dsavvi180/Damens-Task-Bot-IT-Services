@@ -34,7 +34,7 @@ puppeteer
     await page.click("#submit");
 
     await page.waitForSelector("#password");
-    await page.type("#password", "SavviDamen18", { delay: 100 });
+    await page.type("#password", "*****", { delay: 100 });
 
     await page.waitForSelector("#submit");
     await page.click("#submit");
