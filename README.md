@@ -20,5 +20,5 @@ Javascript & Python:
 9. Using python, the date is parsed based on specific categorisations, a huge tree of nested objects is created to represent the categories and subcategories of IT services at the University.
 10. Methods such as array iteration and pattern mathcing based on keywords are used to sort through the data to conclude what object ID the ticket should be assigned.
 11. A scoring system is used to increase the accuracy of the Object ID allocation. The more keywords relating to a specific service that are tagged on a ticket, the higher score the service will have for the ticket. The service with the highest score for that ticket, is likely to contain the Service's object ID relating to the ticket.
-12. The Object ID is written back to a file to be retrived by th JS script.
+12. The Object ID is written back to a file to be retrieved by th JS script.
 13. The webscraping takes the value and enters it into the relevant section of the ticket on the UniDesk application.
